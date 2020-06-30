@@ -10,7 +10,7 @@ Analysis Covered:
 
 * CNN model created using maxpooling, convolutional,dropout and flatten layers
 * Created validation set from the training set
-* Visualization of loss and 
+* Visualization of loss and accuracy
 * Heatmap visualization of the filters and convolutional layers
 
 
