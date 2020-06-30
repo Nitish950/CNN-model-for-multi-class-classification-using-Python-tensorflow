@@ -14,5 +14,5 @@ Analysis Covered:
 * Heatmap visualization of the filters and convolutional layers
 
 
-Accuracy of 97% and loss of 0.42% was achieved by the model created
+Accuracy of 99.7% and loss of 0.42% was achieved by the model created
 
